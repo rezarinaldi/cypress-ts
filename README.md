@@ -19,6 +19,12 @@ $ npm run cy:run        # Running test on a build server.
 
 ---
 
+### Testing ⤵️
+
+[![code-send](https://github-readme-stats.vercel.app/api/pin?username=mnindrazaka&repo=code-send&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=2C393F)](https://github.com/mnindrazaka/code-send)
+
+---
+
 ### Source
 
 Find the tutorial videos here:
